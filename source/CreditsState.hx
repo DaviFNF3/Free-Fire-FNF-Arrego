@@ -81,6 +81,9 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+		    ['VS Free Firei'],
+		    ['O CARA MERMO DO DISCORD PORRA',				'max',			'Porter bosta',						'https://youtube.com/channel/UC5Uw3356q9rqSn74TLIxPCw',		'FF0000'],
+		    ['']
 			['Psych Porting Team'],
 			['mcagabe19',				'lily',			'Head Porter of Psych Engine Mobile',						'https://youtube.com/@mcagabe19',		'FFE7C0'],
 			[''],

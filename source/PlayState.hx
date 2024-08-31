@@ -533,6 +533,18 @@ class PlayState extends MusicBeatState
 					stageCurtains.updateHitbox();
 					add(stageCurtains);
 				}
+				case 'bingolao': //Week 1
+				var bingolao:BGSprite = new BGSprite('bingolao', -600, -200, 0.9, 0.9);
+				add(bingolao);
+				
+				case 'capa': //Week 1
+				var capa:BGSprite = new BGSprite('capa', -600, -200, 0.9, 0.9);
+				add(capa);
+				
+				case 'FF NATAL': //Week 1
+				var FF NATAL:BGSprite = new BGSprite('FF NATAL', -600, -200, 0.9, 0.9);
+				add(FF NATAL);
+				
 				dadbattleSmokes = new FlxSpriteGroup(); //troll'd
 
 			case 'spooky': //Week 2
