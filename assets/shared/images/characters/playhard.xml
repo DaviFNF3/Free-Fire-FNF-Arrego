@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="playhard.png">
+<SubTexture name="playhard idle0000" x="908" y="675" width="710" height="517" frameX="-276" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0001" x="1887" y="1232" width="768" height="403" frameX="-251" frameY="-286" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0002" x="0" y="2317" width="829" height="310" frameX="-218" frameY="-380" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0003" x="0" y="2317" width="829" height="310" frameX="-218" frameY="-380" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0004" x="1887" y="1232" width="768" height="403" frameX="-251" frameY="-286" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0005" x="908" y="675" width="710" height="517" frameX="-276" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0006" x="908" y="675" width="710" height="517" frameX="-276" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0007" x="908" y="675" width="710" height="517" frameX="-276" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0008" x="908" y="675" width="710" height="517" frameX="-276" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0009" x="908" y="675" width="710" height="517" frameX="-276" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0010" x="908" y="675" width="710" height="517" frameX="-276" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard idle0011" x="908" y="675" width="710" height="517" frameX="-276" frameY="-172" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard left0000" x="0" y="1779" width="957" height="538" frameX="-61" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard left0001" x="1686" y="0" width="1009" height="551" frameX="-9" frameY="-134" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard left0002" x="0" y="1232" width="1018" height="547" frameX="0" frameY="-138" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard down0000" x="957" y="1779" width="721" height="373" frameX="-262" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard down0001" x="1678" y="1779" width="757" height="329" frameX="-244" frameY="-356" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard down0002" x="829" y="2317" width="782" height="295" frameX="-232" frameY="-388" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard up0000" x="1124" y="0" width="562" height="605" frameX="-393" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard up0001" x="562" y="0" width="562" height="639" frameX="-394" frameY="-61" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard up0002" x="0" y="0" width="562" height="675" frameX="-392" frameY="-23" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard right0000" x="1686" y="551" width="821" height="545" frameX="-278" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard right0001" x="1018" y="1232" width="869" height="545" frameX="-278" frameY="-140" frameWidth="1280" frameHeight="720" />
+<SubTexture name="playhard right0002" x="0" y="675" width="908" height="557" frameX="-278" frameY="-128" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

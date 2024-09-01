@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cerol.png">
+<SubTexture name="cerol idle0000" x="0" y="1206" width="550" height="479" frameX="-370" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol idle0001" x="550" y="1206" width="568" height="469" frameX="-361" frameY="-220" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol idle0002" x="1118" y="1206" width="540" height="459" frameX="-375" frameY="-230" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol idle0003" x="0" y="1685" width="540" height="452" frameX="-375" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol idle0004" x="0" y="1685" width="540" height="452" frameX="-375" frameY="-237" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol idle0005" x="1118" y="1206" width="540" height="459" frameX="-375" frameY="-230" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol idle0006" x="550" y="1206" width="568" height="469" frameX="-361" frameY="-220" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol idle0007" x="0" y="1206" width="550" height="479" frameX="-370" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol idle0008" x="0" y="1206" width="550" height="479" frameX="-370" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol idle0009" x="0" y="1206" width="550" height="479" frameX="-370" frameY="-210" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol left0000" x="1707" y="0" width="487" height="524" frameX="-387" frameY="-167" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol left0001" x="1707" y="0" width="487" height="524" frameX="-387" frameY="-167" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol left0002" x="984" y="617" width="548" height="538" frameX="-326" frameY="-153" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol down0000" x="540" y="1685" width="613" height="260" frameX="-337" frameY="-422" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol down0001" x="1153" y="1685" width="655" height="208" frameX="-315" frameY="-474" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol down0002" x="540" y="1945" width="695" height="182" frameX="-290" frameY="-500" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol up0000" x="492" y="617" width="492" height="560" frameX="-426" frameY="-134" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol up0001" x="0" y="617" width="492" height="589" frameX="-426" frameY="-104" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol up0002" x="0" y="0" width="492" height="617" frameX="-427" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol right0000" x="492" y="0" width="570" height="594" frameX="-419" frameY="-104" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol right0001" x="492" y="0" width="570" height="594" frameX="-419" frameY="-104" frameWidth="1280" frameHeight="720" />
+<SubTexture name="cerol right0002" x="1062" y="0" width="645" height="590" frameX="-427" frameY="-108" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

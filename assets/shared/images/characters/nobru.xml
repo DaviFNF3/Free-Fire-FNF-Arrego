@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nobru.png">
+<SubTexture name="nobru idle0000" x="1386" y="1251" width="479" height="526" frameX="-409" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru idle0001" x="0" y="1814" width="514" height="481" frameX="-388" frameY="-225" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru idle0002" x="514" y="1814" width="542" height="444" frameX="-374" frameY="-260" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru idle0003" x="1056" y="1814" width="582" height="393" frameX="-349" frameY="-310" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru idle0004" x="514" y="1814" width="542" height="444" frameX="-374" frameY="-260" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru idle0005" x="0" y="1814" width="514" height="481" frameX="-388" frameY="-225" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru idle0006" x="1386" y="1251" width="479" height="526" frameX="-409" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru idle0007" x="1386" y="1251" width="479" height="526" frameX="-409" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru idle0008" x="1386" y="1251" width="479" height="526" frameX="-409" frameY="-183" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru left0000" x="677" y="0" width="667" height="626" frameX="-168" frameY="-248" frameWidth="1080" frameHeight="895" />
+<SubTexture name="nobru left0001" x="0" y="628" width="672" height="623" frameX="-163" frameY="-251" frameWidth="1080" frameHeight="895" />
+<SubTexture name="nobru left0002" x="0" y="0" width="677" height="628" frameX="-158" frameY="-246" frameWidth="1080" frameHeight="895" />
+<SubTexture name="nobru down0000" x="1638" y="1814" width="464" height="371" frameX="-332" frameY="-346" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru down0001" x="2484" y="0" width="521" height="288" frameX="-302" frameY="-427" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru down0002" x="0" y="2295" width="566" height="242" frameX="-280" frameY="-471" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru up0000" x="2035" y="0" width="449" height="486" frameX="-443" frameY="-215" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru up0001" x="672" y="628" width="449" height="529" frameX="-445" frameY="-173" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru up0002" x="1344" y="570" width="449" height="555" frameX="-446" frameY="-147" frameWidth="1280" frameHeight="720" />
+<SubTexture name="nobru right0000" x="693" y="1251" width="693" height="559" frameX="-205" frameY="-100" frameWidth="1080" frameHeight="696" />
+<SubTexture name="nobru right0001" x="0" y="1251" width="693" height="563" frameX="-212" frameY="-96" frameWidth="1080" frameHeight="696" />
+<SubTexture name="nobru right0002" x="1344" y="0" width="691" height="570" frameX="-223" frameY="-89" frameWidth="1080" frameHeight="696" />
+</TextureAtlas>

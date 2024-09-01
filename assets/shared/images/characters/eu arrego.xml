@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eu arrego.png">
+<SubTexture name="eu arrego idle0000" x="0" y="0" width="507" height="562" frameX="-397" frameY="-118" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego idle0001" x="0" y="0" width="507" height="562" frameX="-397" frameY="-118" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego idle0002" x="0" y="0" width="507" height="562" frameX="-397" frameY="-118" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego idle0003" x="0" y="0" width="507" height="562" frameX="-397" frameY="-118" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego idle0004" x="0" y="0" width="507" height="562" frameX="-397" frameY="-118" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego idle0005" x="0" y="0" width="507" height="562" frameX="-397" frameY="-118" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego left0000" x="637" y="1023" width="754" height="401" frameX="-128" frameY="-278" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego left0001" x="637" y="1023" width="754" height="401" frameX="-128" frameY="-278" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego left0002" x="637" y="1023" width="754" height="401" frameX="-128" frameY="-278" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego down0000" x="526" y="562" width="482" height="285" frameX="-370" frameY="-409" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego down0001" x="0" y="1429" width="528" height="240" frameX="-339" frameY="-455" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego down0002" x="528" y="1429" width="557" height="240" frameX="-319" frameY="-455" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego up0000" x="0" y="562" width="526" height="461" frameX="-377" frameY="-98" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego up0001" x="507" y="0" width="567" height="511" frameX="-353" frameY="-77" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego up0002" x="0" y="562" width="526" height="461" frameX="-377" frameY="-98" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego right0000" x="1074" y="0" width="637" height="406" frameX="-412" frameY="-272" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego right0001" x="1074" y="406" width="637" height="406" frameX="-412" frameY="-272" frameWidth="1280" frameHeight="720" />
+<SubTexture name="eu arrego right0002" x="0" y="1023" width="637" height="406" frameX="-412" frameY="-272" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
